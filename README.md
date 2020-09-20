@@ -11,5 +11,3 @@ Notebooks:
 7. Gaussian Regression
 8. Decision Tree - bagged & boosted
 9. Neural Network
-
-I produced these notebooks whilst simultaneously learning my first programming language and studying Supervised Machine Learning theory for the first time, as a way of improving my coding skills and furthering my understanding of the various supervised learning techniques.
