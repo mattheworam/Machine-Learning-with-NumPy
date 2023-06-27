@@ -1,5 +1,5 @@
 # Machine-Learning-with-NumPy
-Collection of notebooks containing NumPy implementations of the most common supervised machine learning techniques. Along with a simple demonstration of their use and the benefits of various features and optimisations that I included whenever I saw an opportunity. 
+Collection of notebooks containing NumPy implementations of the most common supervised machine learning techniques. Along with a simple demonstration of their use. 
 
 Notebooks:
 1. Perceptron
